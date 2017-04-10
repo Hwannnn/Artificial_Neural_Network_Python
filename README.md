@@ -1,6 +1,6 @@
-# Artificial_Neural_Network_Python - 2016 / second semester
+# Artificial_Neural_Network_Python
 
-
+2016 / second semester / AI class homwork
 
 Artificial Neural Network Implemented on a Python.
 
